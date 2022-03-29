@@ -4,6 +4,8 @@ from terminaltables import AsciiTable
 import os
 import platform
 
+# test
+
 table_data = [
     ['1.Czas'],
     ['2.Długość'],
